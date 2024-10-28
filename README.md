@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- ![snake gif](https://github.com/Anxiousz/Anxiousz/blob/output/github-snake.svg)
+
   
   <br/><br/><br/>
 </div>
@@ -64,4 +64,4 @@
 
 <hr/>
 
-
+ ![snake gif](https://github.com/Anxiousz/Anxiousz/blob/output/github-snake.svg)
