@@ -14,9 +14,7 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Spring Boot, React, Firebase... or anything [here](https://github.com/Anxiousz/Anxiousz/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about ** Spring Boot, React, .NET ... or anything [here](https://github.com/Anxiousz/Anxiousz/issues)**
 
  </div>
  
