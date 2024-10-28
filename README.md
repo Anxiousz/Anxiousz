@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about ** Spring Boot, React, .NET ... or anything [here](https://github.com/Anxiousz/Anxiousz/issues)**
+💬 Ask me about **Spring Boot, React, .NET ... or anything [here](https://github.com/Anxiousz/Anxiousz/issues)**
 
  </div>
  
